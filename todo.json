@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Learn Python",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "Build a web app",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "Deploy online",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "text": "Learning AI",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "text": "Make a new Resume",
+    "completed": false
+  }
+]
